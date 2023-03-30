@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: officecodeprod-regular
+font link: https://github.com/nathco/Office-Code-Pro
+font author: Nathan Rutzky
+font author site: https://nath.co/
+
+
+icon designer: Jim Slatton
+icon designer link: /jim.slatton.1
+        
+{"bg-gradient-0":"#0076DD","bg-gradient-1":"#00CDE9","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
