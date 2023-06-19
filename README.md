@@ -1,5 +1,5 @@
 Portfolio
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+A beautiful and responsive website to show my current and past projects.
 
 Link to project: https://sarahdavison.netlify.app/
 
